@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.globalshare.app"><img src="assets/android.svg" alt="Baixar para Android" height="46"></a>
-  <img src="assets/windows.svg" alt="Windows: download em breve" height="46">
+  <a href="https://github.com/RinOKumura7/GlobalShare/releases/download/windows-v0.1.3/GlobalShare-Windows-0.1.3-x64-Setup.exe"><img src="assets/windows.svg" alt="Baixar para Windows x64" height="46"></a>
 </p>
 <p align="center">
   <a href="https://globalshare.shop/"><img src="assets/site.svg" alt="Site oficial" height="46"></a>
@@ -36,14 +36,24 @@ Mantenha a VPN, o roteador e o compartilhamento ligados no celular de origem.
 
 ### Android → PC
 
-O GlobalShare para Windows recebe a conexão compartilhada pelo celular Android. O download será disponibilizado aqui e no site oficial quando a versão estiver pronta para distribuição.
+O programa para Windows **recebe** a conexão compartilhada pelo celular Android.
+
+1. No celular de origem, conecte sua VPN, ligue o roteador Wi-Fi e inicie **Compartilhar** no GlobalShare.
+2. No PC, conecte ao Wi-Fi criado por esse celular.
+3. [Baixe o instalador para Windows x64](https://github.com/RinOKumura7/GlobalShare/releases/download/windows-v0.1.3/GlobalShare-Windows-0.1.3-x64-Setup.exe) e conclua a instalação.
+4. Abra o GlobalShare e confirme a permissão de administrador do Windows.
+5. Clique em **Detectar automaticamente** e depois em **Conectar**.
+
+O instalador cria os atalhos; não é necessário extrair uma pasta nem instalar o .NET separadamente. Mantenha a VPN e o compartilhamento ativos no celular de origem.
+
+Compatível com Windows 10 ou 11 x64, em PCs Intel ou AMD de 64 bits. A versão ARM64 será disponibilizada após sua validação.
 
 ## Downloads
 
 | Dispositivo | Onde baixar |
 | --- | --- |
 | Android | [Google Play](https://play.google.com/store/apps/details?id=com.globalshare.app) |
-| Windows | Em breve |
+| Windows x64 | [Instalador 0.1.3 · 43,5 MB](https://github.com/RinOKumura7/GlobalShare/releases/download/windows-v0.1.3/GlobalShare-Windows-0.1.3-x64-Setup.exe) |
 
 ## Dúvidas frequentes
 
